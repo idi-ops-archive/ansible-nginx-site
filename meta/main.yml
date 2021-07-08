@@ -1,0 +1,13 @@
+---
+
+galaxy_info:
+  author: Inclusive Design Research Centre & Raising the Floor org
+  description: Configured Nginx site
+  company: OCAD University
+  license: MIT
+  min_ansible_version: 1.9.4
+  platforms:
+  - name: EL
+    versions:
+    - 7
+dependencies: []
